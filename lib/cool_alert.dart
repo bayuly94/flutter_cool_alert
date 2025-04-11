@@ -7,17 +7,9 @@ import 'package:flutter/material.dart';
 import 'src/models/cool_alert_options.dart';
 import 'src/utils/animate.dart';
 import 'src/widgets/cool_alert_container.dart';
+import 'src/utils/utils.dart';
 
-enum CoolAlertType { success, error, warning, confirm, info, loading, custom }
 
-enum CoolAlertAnimType {
-  scale,
-  rotate,
-  slideInDown,
-  slideInUp,
-  slideInLeft,
-  slideInRight,
-}
 
 /// CoolAlert.
 class CoolAlert {

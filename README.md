@@ -59,4 +59,3 @@ title| String | Set a custom title for dialog                                   
 
 
 
-# flutter_cool_alert

@@ -1,4 +1,4 @@
-import 'package:cool_alert/cool_alert.dart';
+import '../utils/utils.dart';
 import 'package:flutter/widgets.dart';
 
 class CoolAlertOptions {
